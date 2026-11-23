@@ -1,4 +1,4 @@
-# Exp-1-matrix-opertaions-linear-algebra-with-Numpy
+# Experiment-1-Matrix-opertaions-linear-algebra-with-Numpy
 
 ## Aim
 
@@ -48,3 +48,8 @@ print("\nSolve A x = b --> x:", np.round(x,4))
 ## Result
 
 Students see concrete matrix computations and how to solve linear systems; relate solve() to normal equations in linear regression.
+
+# THEORY
+
+Linear algebra (matrix inversion, eigen-decomposition) underpins PCA, linear models, and many optimization problems. Conditioning/invertibility matters. 
+
