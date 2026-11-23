@@ -49,7 +49,7 @@ print("\nSolve A x = b --> x:", np.round(x,4))
 
 Students see concrete matrix computations and how to solve linear systems; relate solve() to normal equations in linear regression.
 
-# THEORY
+## Theory
 
 Linear algebra (matrix inversion, eigen-decomposition) underpins PCA, linear models, and many optimization problems. Conditioning/invertibility matters. 
 
